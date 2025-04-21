@@ -3,7 +3,13 @@ pipeline {
     options {
         skipStagesAfterUnstable()
     }
+    
     stages {
+        stage('Checkout'){
+            steps{
+                git 'https://github.com/swatisudipta/test_project'
+            }
+        }
         stage('Build') {
             steps {
                 sh 'mvn -B -DskipTests clean package'
