@@ -1,0 +1,43 @@
+Strategic Objectives:
+
+Accelerate Use Case Delivery: Rapidly prototype and scale Gen AI use cases that align with business priorities (e.g., customer support, property recommendations, agent productivity).
+
+Central Guardrails & Accelerators: Operate within the enterprise-wide Gen AI governance framework, ensuring responsible AI use, data privacy, and model safety.
+
+Platform Enablement: Build reusable Gen AI components to support cross-lab adoption.
+
+ 
+
+Squad Setup Aspiration:
+
+Onshore AI Tech Lead with Architecting (1)
+
+Owns technical vision, architecture, and alignment with LBG central AI platforms.
+
+Acts as the bridge between product, engineering, and enterprise AI teams.
+
+Drives experimentation, model selection, and integration strategies.
+
+Use Case prioritisation and support RoI assessment.
+
+Offshore Developers (2-4)
+
+Focused on environment setup, pipeline development, prompt engineering, and integration tasks.
+
+Work in tandem with the tech lead to deliver prioritized use cases.
+
+ 
+
+Initial Responsibilities:
+
+Set up Gen AI environments.
+
+Prioritize use cases with product and business stakeholders.
+
+Deliver MVPs under LBG central guardrails.
+
+Collaborate with platform teams to reuse accelerators and contribute back.
+
+ 
+
+ 
